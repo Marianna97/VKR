@@ -1,0 +1,462 @@
+# Translation of Plugins - Russian Post and EMS for WooCommerce - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Russian Post and EMS for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-29 13:49:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Russian Post and EMS for WooCommerce - Development (trunk)\n"
+
+#. Plugin URI of the plugin
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#: inc/class-rpaefw-shipping-method.php:874
+msgid "could not calculate shipping rate for selected delivery point. Please select another delivery point."
+msgstr "не удалось рассчитать стоимость для выбранного пункта доставки. Пожалуйста, выберите другой пункт доставки."
+
+#: inc/class-rpaefw-shipping-method.php:509
+msgid "Shipping state or city is not provided to get EKOM index."
+msgstr "Страна или город доставки не указаны для получения индекса EKOM."
+
+#: inc/class-rpaefw-shipping-method.php:493
+msgid "Could not open PVZ file to get EKOM index."
+msgstr "Не удалось открыть файл ПВЗ для получения индекса EKOM."
+
+#: inc/settings/settings-admin-section.php:111
+msgid "By default all requests stored in WooCommerce logs. You can hide info messages and keep only errors and warnings."
+msgstr "По умолчанию все запросы хранятся в журналах WooCommerce. Вы можете скрыть информационные сообщения и хранить только ошибки и предупреждения."
+
+#: inc/settings/settings-admin-section.php:109
+msgid "Hide Info Log Messages"
+msgstr "Скрыть информационный сообщения из журнала "
+
+#: inc/settings/settings-admin-section.php:106
+msgid "Log Messages"
+msgstr "Сообщения журнала"
+
+#: inc/settings/settings-admin-section.php:99
+msgid "Other"
+msgstr "Дополнительно"
+
+#. translators: links
+#: russian-post-and-ems-for-woocommerce.php:173
+msgid "%1$s Get PRO version %2$s to automatically synchronize order with the tracking."
+msgstr "%1$s Установите PRO версию %2$s для автоматической синхронизации заказа со статусом трекинга. "
+
+#. translators: links
+#: russian-post-and-ems-for-woocommerce.php:165
+msgid "The email with track number is sending automatically based on your %1$s settings. %2$s"
+msgstr "Email c трек номером отправляется автоматически согласно вашим %1$s настройкам. %2$s"
+
+#: russian-post-and-ems-for-woocommerce.php:143
+msgid "Russian Post Tracking"
+msgstr "Почта России Отслеживание"
+
+#: russian-post-and-ems-for-woocommerce.php:338
+msgid "Buy PRO version"
+msgstr "Купить PRO версию"
+
+#: russian-post-and-ems-for-woocommerce.php:330
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/class-rpaefw-shipping-method.php:1280
+msgid "This message and method are visible only for the site Administrator for debugging purposes."
+msgstr "Это сообщение и метод видны только администратору сайта в целях отладки."
+
+#: inc/class-rpaefw-tracking-code.php:115
+msgid "Thanks for using {site_address}!"
+msgstr "Спасибо за использование {site_address}!"
+
+#: inc/class-rpaefw-tracking-code.php:23
+msgid "Russian Post Tracking Code"
+msgstr "Почта России код отслеживания"
+
+#: russian-post-and-ems-for-woocommerce.php:319
+msgid "Transients cleared"
+msgstr "Транзиенты очищены"
+
+#: russian-post-and-ems-for-woocommerce.php:297
+msgid "This tool will clear the request transients cache."
+msgstr "Этот инструмент очистит кэш запросов."
+
+#: russian-post-and-ems-for-woocommerce.php:296
+msgid "Clear transients"
+msgstr "Очистить Транзиенты"
+
+#: russian-post-and-ems-for-woocommerce.php:295
+msgid "Russian Post transients"
+msgstr "Транзиенты Почта России"
+
+#: inc/class-rpaefw-shipping-method.php:958
+msgid "Could not calculate shipping via /1.0/tariff."
+msgstr "Не удалось рассчитать доставку для /1.0/tariff."
+
+#: inc/class-rpaefw-shipping-method.php:957
+msgid "Error during shipping calculation. Check WooCommerce Log for more information"
+msgstr "Ошибка при расчете доставки. Проверьте WooCommerce журнал для получения дополнительной информации"
+
+#. translators: city and state
+#: inc/class-rpaefw-shipping-method.php:557
+msgid "Could not find EKOM delivery point for the next address %1$s, type of EKOM %2$s, and services %3$s."
+msgstr "Не удалось найти точку доставки EKOM для следующего адреса %1$s, тип %2$s и услуг %3$s."
+
+#: inc/settings/settings-shipping-method.php:255
+msgid "This will be applied only if COD is not selected as payment since the COD payment cannot be bigger than declared value."
+msgstr "Это будет применяться только в том случае, если наложенный платеж не выбран в качестве платежа, поскольку оплата наложенным платежом не может быть больше заявленного значения."
+
+#: inc/settings/settings-shipping-method.php:237
+msgctxt "Tax status"
+msgid "Without VAT"
+msgstr "Без НДС"
+
+#: inc/settings/settings-shipping-method.php:236
+msgid "Include VAT in final shipping cost"
+msgstr "Включить НДС в стоимость доставки"
+
+#: inc/settings/settings-shipping-method.php:229
+msgid "Select how final shipping cost will be calculated with or without VAT rate"
+msgstr "Выберите способ расчета окончательной стоимости доставки с учетом или без учета НДС"
+
+#: inc/settings/settings-shipping-method.php:228
+msgid "VAT"
+msgstr "НДС"
+
+#: inc/settings/settings-shipping-method.php:215
+msgid "Air delivery"
+msgstr "Авиадоставка"
+
+#: inc/settings/settings-shipping-method.php:214
+msgid "Ground delivery"
+msgstr "Наземная доставка"
+
+#: inc/settings/settings-shipping-method.php:210
+msgid "Note it takes effect only for some shipping types"
+msgstr "Обратите внимание, что это относится только для некоторых типов доставки"
+
+#: inc/settings/settings-shipping-method.php:209
+msgid "Preferred shipping option"
+msgstr "Предпочтительный вариант доставки"
+
+#. translators: links
+#: inc/settings/settings-admin-section.php:42
+msgid "To integrate with the API of the Russian Post Online Service. You can generate an authorization key %1$shere%2$s"
+msgstr "Для интеграции с API Онлайн-сервиса «Отправка». Вы можете сгенерировать ключ авторизации %1$sздесь%2$s"
+
+#: inc/settings/settings-admin-section.php:40
+msgid "User Authorization Key"
+msgstr "Ключ авторизации пользователя"
+
+#. translators: links
+#: inc/settings/settings-admin-section.php:32
+msgid "To integrate with the API of the Russian Post Online Service. Token can be found in the %1$ssettings of your account%2$s"
+msgstr "Для интеграции с API Онлайн-сервиса «Отправка». Токен можно узнать в %1$sнастройках личного кабинета%2$s"
+
+#: inc/settings/settings-admin-section.php:30
+msgid "Application Authorization Token"
+msgstr "Токен авторизации приложения"
+
+#. translators: links
+#: inc/settings/settings-admin-section.php:25
+msgid "OPS service index. If you use synchronization with your dashboard, then the index should be identical to that specified in %1$sthe settings of your account.%2$s Under the conditions for receiving cash on delivery and the presence of synchronization with your Russian Post dashboard, it is necessary to set the UTP number in the settings of the account on the Russian Post website."
+msgstr "Индекс ОПС обслуживания. Если вы используете синхронизацию с личным кабинетом то индекс должен быть идентичен тому, что указан в %1$sнастройках сервиса личного кабинета.%2$s При условиях приема оплаты наложенным платежом и наличия синхронизации с личным кабинетом необходимо чтобы номер ЕСПП в настройках сервиса личного кабинета на сайте Почты РФ был заполнен."
+
+#: inc/settings/settings-admin-section.php:23
+msgid "OPS Service"
+msgstr "ОПС обслуживания"
+
+#: inc/settings/settings-admin-section.php:18
+msgid "Provide data if you use methods intended for corporate clients. An agreement concluded between a corporate client and Russian Post. The line consists of the region code according to the Constitution of the Russian Federation, the TIN of the enterprise and the agreement number, separated by a “-” sign (hyphen)."
+msgstr "Укажите данные если вы используете методы предназначенные для корпоративных клиентов. Договор, заключенный между корпоративным клиентом и ФГУП “Почта России”. Строка состоит из кода региона по Конституции РФ, ИНН предприятия и номера договора, разделенных знаком “-” (дефис)."
+
+#: inc/settings/settings-admin-section.php:17
+msgid "Region-TIN-Agreement"
+msgstr "Регион-ИНН-Договор"
+
+#: russian-post-and-ems-for-woocommerce.php:167
+msgid "Code"
+msgstr "Код"
+
+#: inc/class-rpaefw-shipping-method.php:869
+#: inc/class-rpaefw-shipping-method.php:874
+msgid "Error:"
+msgstr "Ошибка: "
+
+#: inc/class-rpaefw-shipping-method.php:856
+msgid "Request error for"
+msgstr "Ошибка запроса для"
+
+#: inc/class-rpaefw-shipping-method.php:846
+msgid "Server connection error to get"
+msgstr "Ошибка подключения к серверу для получения"
+
+#: inc/class-rpaefw-shipping-method.php:843
+msgid "Making request to get:"
+msgstr "Создание запроса для получения:"
+
+#: inc/class-rpaefw-shipping-method.php:795
+msgid "Could not find currency code in a base."
+msgstr "Не удалось найти код валюты в базе."
+
+#: inc/class-rpaefw-shipping-method.php:778
+msgid "Cannot get currency rates from api."
+msgstr "Невозможно получить курсы валют от API."
+
+#: inc/class-rpaefw-shipping-method.php:311
+msgid "Error: no cost is set."
+msgstr "Ошибка: стоимость не установлена."
+
+#: inc/class-rpaefw-shipping-method.php:243
+msgid "Could not find code number for given country."
+msgstr "Не удалось найти кодовый номер для данной страны."
+
+#: inc/class-rpaefw-shipping-method.php:237
+msgid "For international shipping you should select international type in settings."
+msgstr "Для международной доставки вы должны выбрать международный тип в настройках."
+
+#: inc/class-rpaefw-shipping-method.php:173
+msgid "Overweight is not allowed. To avoid overweight you can limit the range of allowed weights in settings of this shipping method."
+msgstr "Перевес не допускается. Чтобы избежать перевеса, вы можете ограничить диапазон веса отправления в настройках этого способа доставки."
+
+#: inc/class-rpaefw-shipping-method.php:93
+msgid "Post code of sender is required. You can set in store address."
+msgstr "Почтовый индекс отправителя обязателен. Вы можете установить его в адресе магазине."
+
+#: inc/settings/settings-shipping-method.php:301
+msgid "Disable this method if the weight of the order is more than inputted value. Leave this field empty to allow any order weight."
+msgstr "Отключите этот метод, если вес заказа больше, чем введенное значение. Оставьте это поле пустым, чтобы разрешить любой вес заказа."
+
+#: inc/settings/settings-shipping-method.php:300
+msgid "Max. weight of order in grams"
+msgstr "Максимум. вес заказа в граммах"
+
+#: inc/settings/settings-shipping-method.php:296
+msgid "Disable this method if the weight of the order is less than inputted value. Leave this field empty to allow any order weight."
+msgstr "Отключите этот метод, если вес заказа меньше введенного значения. Оставьте это поле пустым, чтобы разрешить любой вес заказа."
+
+#: inc/settings/settings-shipping-method.php:295
+msgid "Min. weight of order in grams"
+msgstr "Минимальный вес заказа в граммах"
+
+#: inc/settings/settings-shipping-method.php:289
+msgid "Min. cost of order in RUB"
+msgstr "Минимальная стоимость заказа в рублях"
+
+#: inc/settings/settings-shipping-method.php:284
+msgid "Turn off and on a method based on some conditions. By default, the method will be turned off when the weight of the order is greater than allowed in a selected type of shipping."
+msgstr "Отключить метод, для на некоторых условий. По умолчанию метод будет отключен, если вес заказа превышает допустимый для выбранного типа отправления."
+
+#: inc/settings/settings-shipping-method.php:283
+msgid "Conditions"
+msgstr "Условия"
+
+#: inc/settings/settings-shipping-method.php:276
+msgid "Displayed next to the title. Note, it does not work for international shipping and EKOM. The time calculated via official Russian Post service."
+msgstr "Отображается рядом с заголовком. Обратите внимание, это не работает для международной доставки и EKOM. Время рассчитывается через официальный сервис Почты России."
+
+#: inc/settings/settings-shipping-method.php:255
+msgid "You can set max. declared value in RUB for some types of departure. Min possible value is 1 RUB. When this fields has no value the declared value equals sum of the order."
+msgstr "Вы можете установить макс. объявленную ценность в рублях для некоторых видов отправлений. Минимально возможное значение составляет 1 руб. Когда поле не имеет значения, объявленная ценность равна сумме заказа."
+
+#: inc/settings/settings-shipping-method.php:248
+msgid "Additional Сost"
+msgstr "Дополнительная Стоимость"
+
+#: inc/settings/settings-shipping-method.php:244
+msgid "Additional Settings"
+msgstr "Дополнительные Настройки"
+
+#: inc/settings/settings-shipping-method.php:224
+msgctxt "Tax status"
+msgid "None"
+msgstr "Нет"
+
+#: inc/settings/settings-shipping-method.php:223
+msgid "Taxable"
+msgstr "Облагаемый налогом"
+
+#: inc/settings/settings-shipping-method.php:219
+msgid "Tax status"
+msgstr "Налоговый статус"
+
+#: inc/settings/settings-shipping-method.php:127
+msgid "or on the Russian Post service tariffing website"
+msgstr "или на сайте тарификации услуг Почты России"
+
+#: inc/settings/settings-shipping-method.php:127
+msgid "Russian Post services and rules"
+msgstr "Почта России услуги и правила"
+
+#: inc/settings/settings-shipping-method.php:127
+msgid "Please note that different types of shipping support different types of services. To get more information regardless shipping types and services check official websites."
+msgstr "Обратите внимание, что разные виды доставки поддерживают разные виды услуг. Чтобы получить больше информации о типах доставки и услуг, посетите официальные сайты."
+
+#: inc/settings/settings-shipping-method.php:125
+msgid "Additional services"
+msgstr "Дополнительные услуги"
+
+#: inc/settings/settings-shipping-method.php:123
+msgid "Services"
+msgstr "Сервисы"
+
+#: inc/settings/settings-shipping-method.php:103
+msgid "Only for shipping types: Посылка (стандарт, экспресс, курьер EMS) and EKOM package is required. Note there are weight limitations for packages (in brackets displayed the max allowed weight)."
+msgstr "Только для видов доставки: Посылка (стандарт, экспресс, курьер EMS) и EKOM требуется упаковка. Обратите внимание, что существуют ограничения по весу для упаковок (в скобках указан максимально допустимый вес)."
+
+#: inc/settings/settings-shipping-method.php:102
+msgid "Package Type"
+msgstr "Тип Упаковки"
+
+#: inc/settings/settings-shipping-method.php:37
+msgid "Russian Post Settings"
+msgstr "Настройки Почты России"
+
+#: inc/settings/settings-shipping-method.php:37
+msgid "Select shipping type (in brackets displayed the max allowed weight of shipping method). If this method associated with international shipping zone, make sure you select international type of shipping. If you want to use shipping types for corporate clients you need to add additional info in Russian post plugin settings."
+msgstr "Выберите тип доставки (в скобках указан максимально допустимый вес). Если этот метод связан с зоной международной доставки, убедитесь, что вы выбрали международный тип отправления. Если вы хотите использовать типы доставки для корпоративных клиентов, вам нужно добавить дополнительную информацию в настройках плагина. "
+
+#: inc/settings/settings-shipping-method.php:32
+msgid "Optional. Postcode of the sender. By default equals to the OPS Service postcode or store postcode. You can specify different from store address one if there is a need."
+msgstr "Необязательно. Почтовый индекс отправителя. По умолчанию соответствует почтовому индексу ОПС обслуживания или почтовому индексу магазина. Вы можете указать другой индекс, если это необходимо."
+
+#: inc/settings/settings-shipping-method.php:23
+msgid "This title will be displayed in checkout"
+msgstr "Этот заголовок будет отображаться при оформлении заказа"
+
+#: inc/settings/settings-shipping-method.php:18
+msgid "Basic Settings"
+msgstr "Основные Настройки"
+
+#: inc/class-rpaefw-tracking-code.php:106
+msgid "Your order has been sent"
+msgstr "Ваш заказ был отправлен"
+
+#: inc/class-rpaefw-tracking-code.php:97
+msgid "Order sent from site {site_title}"
+msgstr "Заказ отправлен с сайта {site_title}"
+
+#: inc/class-rpaefw-tracking-code.php:24
+msgid "Letters are sent to the client with the tracking code through the order page."
+msgstr "Письма отправляются клиенту с трек-номером через страницу заказа."
+
+#: inc/emails/russian-post-customer-tracking-code.php:24
+msgid "Track Shipments"
+msgstr "Отслеживание"
+
+#: inc/emails/plain/russian-post-customer-tracking-code.php:28
+#: inc/emails/russian-post-customer-tracking-code.php:24
+msgid "You can track your package on the official website."
+msgstr "Вы можете отслеживать свою посылку на официальном сайте."
+
+#: inc/emails/plain/russian-post-customer-tracking-code.php:18
+#: inc/emails/russian-post-customer-tracking-code.php:19
+msgid "and it has the following tracking number:"
+msgstr "и имеет следующий номер для отслеживания:"
+
+#: inc/emails/plain/russian-post-customer-tracking-code.php:15
+#: inc/emails/russian-post-customer-tracking-code.php:16
+msgid "Your order was sent by Russian Post"
+msgstr "Ваш заказ был отправлен Почтой России"
+
+#. translators: %s: Customer first name
+#: inc/emails/plain/russian-post-customer-tracking-code.php:12
+#: inc/emails/russian-post-customer-tracking-code.php:13
+msgid "Hi %s,"
+msgstr "Здравствуйте %s,"
+
+#: inc/class-rpaefw-shipping-method.php:366
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s день"
+msgstr[1] "%s дня"
+msgstr[2] "%s дней"
+
+#: inc/settings/settings-shipping-method.php:275
+msgid "Show time of delivery."
+msgstr "Показать время доставки."
+
+#: inc/settings/settings-shipping-method.php:273
+msgid "Delivery Time"
+msgstr "Время Доставки"
+
+#: inc/settings/settings-shipping-method.php:290
+msgid "Disable this method if the cost of the order is less than inputted value. Leave this field empty to allow any order cost."
+msgstr "Отключить этот метод, если стоимость заказа меньше введенного значения. Оставьте это поле пустым, чтобы разрешить любую стоимость заказа."
+
+#: inc/settings/settings-shipping-method.php:268
+msgid "Cost of the one packaging. This cost will be added to the final amount of delivery."
+msgstr "Стоимость одной упаковки. Эта стоимость будет добавлена к окончательной сумме доставки."
+
+#: inc/settings/settings-shipping-method.php:263
+msgid "Weight of the one packaging in grams. This weight will be added to the total weight of the order."
+msgstr "Вес одной упаковки в граммах. Этот вес будет добавлен к общему весу заказа."
+
+#: inc/settings/settings-shipping-method.php:262
+msgid "Packaging"
+msgstr "Упаковка"
+
+#: inc/settings/settings-shipping-method.php:254
+msgid "Max. Fixed Package Value"
+msgstr "Макс. фиксированная объявленная стоимость отправления"
+
+#: inc/settings/settings-shipping-method.php:36
+msgid "Type"
+msgstr "Тип"
+
+#: inc/settings/settings-shipping-method.php:249
+msgid "Additional flat rate in RUB for shipping method. This may be the average value of the package or the cost of fuel, spent on the road to the post;)"
+msgstr "Дополнительный фиксированный тариф в рублях за способ доставки. Это может быть средняя стоимость упаковки или стоимость топлива, потраченного на дорогу до почты ;)"
+
+#: inc/settings/settings-shipping-method.php:31
+msgid "Оrigin Postcode"
+msgstr "Почтовый индекс"
+
+#: inc/settings/settings-shipping-method.php:22
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/class-rpaefw-shipping-method.php:23
+msgid "The plugin allows you to automatically calculate shipping costs \"Russian Post\" or \"EMS\" on the checkout page using official tariff.pochta.ru service."
+msgstr "Плагин позволяет автоматически рассчитать стоимость доставки «Почтой России» или «EMS» на странице оформления заказа с помощью официального сервиса tariff.pochta.ru"
+
+#. translators: tracking number
+#: russian-post-and-ems-for-woocommerce.php:214
+msgid "Email with tracking number: %s, was sent to customer"
+msgstr "Письмо с трек-номером: %s, отправлено клиенту"
+
+#: russian-post-and-ems-for-woocommerce.php:169
+msgid "Save and send"
+msgstr "Сохранить и отправить"
+
+#: inc/class-rpaefw-shipping-method.php:22
+#: inc/settings/settings-admin-section.php:12
+#: inc/settings/settings-shipping-method.php:25
+#: russian-post-and-ems-for-woocommerce.php:249
+msgid "Russian Post"
+msgstr "Почта России"
+
+#: russian-post-and-ems-for-woocommerce.php:71
+#: russian-post-and-ems-for-woocommerce.php:94
+msgid "Delivering"
+msgstr "Доставляется"
+
+#. Author URI of the plugin
+msgid "mailto:yumecommerce@gmail.com"
+msgstr "mailto:yumecommerce@gmail.com"
+
+#. Author of the plugin
+msgid "Artem Komarov"
+msgstr "Артем Комаров"
+
+#. Description of the plugin
+msgid "The plugin allows you to automatically calculate the shipping cost for \"Russian Post\" or \"EMS\""
+msgstr "Позволяет автоматически рассчитать стоимость доставки для «Почты России» или «EMS»"
+
+#. Plugin Name of the plugin
+msgid "Russian Post and EMS for WooCommerce"
+msgstr "Почта России и EMS для WooCommerce"
