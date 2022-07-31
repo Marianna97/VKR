@@ -1,0 +1,4 @@
+2022-06-23T05:56:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\themes\astra\inc\core\class-astra-attr.php на строке 12
+
+2022-06-23T05:58:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_TimezoneHelper.php на строке 153
+

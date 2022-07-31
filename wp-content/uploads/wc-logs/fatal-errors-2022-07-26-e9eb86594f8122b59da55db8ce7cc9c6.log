@@ -1,0 +1,4 @@
+2022-07-26T08:20:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration111\trefilieva-illustration\wp-content\themes\astra\inc\customizer\configurations\builder\base\class-astra-social-icon-component-configs.php на строке 13
+
+2022-07-26T08:20:41+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration111\trefilieva-illustration\wp-includes\Requests\Transport\cURL.php на строке 165
+

@@ -1,0 +1,7 @@
+2022-06-25T10:33:15+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=6000&sumin=6000&sum_month=6000&pack=12&isavia=1&from=105215&object=2010&nds&to=656031
+2022-06-25T10:33:26+00:00 INFO Создание запроса для получения: https://delivery.pochta.ru/delivery/v2/calculate?json&from=105215&to=656031&object=2010
+2022-06-25T10:33:26+00:00 ERROR Ошибка подключения к серверу для получения"time". cURL error 28: Resolving timed out after 10001 milliseconds
+2022-06-25T10:35:30+00:00 INFO Создание запроса для получения: https://delivery.pochta.ru/delivery/v2/calculate?json&from=105215&to=656031&object=2010
+2022-06-25T12:14:10+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=84000&sumin=84000&sum_month=84000&pack=12&isavia=1&from=105215&object=2010&nds&to=656031
+2022-06-25T12:14:40+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=90000&sumin=90000&sum_month=90000&pack=12&isavia=1&from=105215&object=2010&nds&to=656031
+2022-06-25T12:15:56+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=144000&sumin=144000&sum_month=144000&pack=12&isavia=1&from=105215&object=2010&nds&to=656031

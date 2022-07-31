@@ -1,0 +1,18 @@
+2022-06-25T04:54:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\cartflows\modules\elementor\class-cartflows-el-widgets-loader.php на строке 183
+
+2022-06-25T04:55:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\product-on-sale.asset.php на строке 1
+
+2022-06-25T06:49:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-admin\includes\privacy-tools.php на строке 971
+
+2022-06-25T06:49:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\elementor\includes\autoloader.php на строке 265
+
+2022-06-25T06:49:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\elementor\includes\autoloader.php на строке 265
+
+2022-06-25T08:58:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\src\Admin\Features\PaymentGatewaySuggestions\Init.php на строке 8
+
+2022-06-25T09:38:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-orders-v2-controller.php на строке 1970
+
+2022-06-25T09:38:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\src\Admin\API\ProductAttributeTerms.php на строке 10
+
+2022-06-25T12:52:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\themes\astra\inc\modules\related-posts\class-astra-related-posts.php на строке 12
+

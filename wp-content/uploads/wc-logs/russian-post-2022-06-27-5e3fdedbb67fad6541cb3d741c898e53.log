@@ -1,0 +1,10 @@
+2022-06-27T12:17:45+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=12000&sumin=12000&sum_month=12000&pack=12&isavia=1&from=105215&object=2010&nds&to=35468
+2022-06-27T12:17:45+00:00 ERROR Ошибка подключения к серверу для получения"price". cURL error 28: Resolving timed out after 10004 milliseconds
+2022-06-27T14:52:57+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=6000&sumin=6000&sum_month=6000&pack=12&isavia=1&from=105215&object=2010&nds&to=35468
+2022-06-27T14:52:57+00:00 ERROR Ошибка подключения к серверу для получения"price". cURL error 28: Resolving timed out after 10009 milliseconds
+2022-06-27T15:19:26+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=6000&sumin=6000&sum_month=6000&pack=12&isavia=1&from=105215&object=2010&nds&to=656000
+2022-06-27T15:19:26+00:00 ERROR Ошибка подключения к серверу для получения"price". cURL error 28: Resolving timed out after 10008 milliseconds
+2022-06-27T15:20:14+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=24000&sumin=24000&sum_month=24000&pack=12&isavia=1&from=105215&object=2010&nds&to=656000
+2022-06-27T15:20:14+00:00 ERROR Ошибка подключения к серверу для получения"price". cURL error 28: Resolving timed out after 10003 milliseconds
+2022-06-27T15:34:06+00:00 INFO Создание запроса для получения: https://tariff.pochta.ru/tariff/v2/calculate?json&weight=100&sumoc=24000&sumin=24000&sum_month=24000&pack=12&isavia=1&from=105215&object=2010&nds&to=656000
+2022-06-27T15:34:06+00:00 ERROR Ошибка подключения к серверу для получения"price". cURL error 28: Resolving timed out after 10008 milliseconds

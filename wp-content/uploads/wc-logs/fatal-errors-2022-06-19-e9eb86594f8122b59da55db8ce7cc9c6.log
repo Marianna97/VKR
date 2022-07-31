@@ -1,0 +1,32 @@
+2022-06-19T06:01:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-admin\includes\post.php на строке 2528
+
+2022-06-19T06:01:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\Requests\Transport\cURL.php на строке 165
+
+2022-06-19T06:02:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:07:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:13:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor.php на строке 565
+
+2022-06-19T06:17:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:23:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:27:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:36:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:38:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:42:21+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor.php на строке 565
+
+2022-06-19T06:48:31+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor-gd.php на строке 208
+
+2022-06-19T06:52:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor.php на строке 565
+
+2022-06-19T06:57:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor.php на строке 565
+
+2022-06-19T16:59:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\elementor\modules\page-templates\module.php на строке 13
+
+2022-06-19T16:59:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\elementor\core\role-manager\role-manager.php на строке 9
+

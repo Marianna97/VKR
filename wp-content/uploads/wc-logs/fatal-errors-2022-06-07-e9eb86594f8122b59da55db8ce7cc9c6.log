@@ -1,0 +1,4 @@
+2022-06-07T13:21:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\AbstractDependencyType.php на строке 55
+
+2022-06-07T13:22:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-templates.php на строке 14
+

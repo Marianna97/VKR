@@ -1,0 +1,12 @@
+2022-06-22T03:24:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php на строке 12
+
+2022-06-22T03:25:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\class-wp-image-editor.php на строке 565
+
+2022-06-22T06:10:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\checkout-plugins-stripe-woo\gateway\abstract-payment-gateway.php на строке 25
+
+2022-06-22T06:11:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\woocommerce\includes\shipping\flat-rate\includes\settings-flat-rate.php на строке 10
+
+2022-06-22T06:12:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-includes\wp-db.php на строке 2169
+
+2022-06-22T06:19:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\trefilieva-illustration\wp-content\plugins\cartflows\classes\importer\class-cartflows-importer-loader.php на строке 10
+
